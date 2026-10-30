@@ -10,4 +10,4 @@ venv
 *.pt
 *.pth
 *.pickle
-*.pdf
+*.pdfs
