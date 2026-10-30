@@ -1,0 +1,12 @@
+*.pyc
+*.pyo
+.venv/
+venv
+
+*.pkl
+*.csv
+.env
+*.xlsx
+*.pt
+*.pth
+*.pickle
